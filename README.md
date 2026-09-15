@@ -189,14 +189,6 @@ Código fuente y configuración disponible en:
 
 ---
 
-## Autora
-
-Desarrollado por **gabyta02**.
-
-[GitHub](https://github.com/gabyta02)
-
----
-
 <p align="center">
   PetSalud — Tecnología aplicada al cuidado responsable de las mascotas.
 </p>
